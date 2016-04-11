@@ -1,3 +1,3 @@
 My own implementation of singly linked list.
 It has AddFirst, AddLast, Remove and Print functions.
-The whole project is tested with above 90% code coverage and works correctly.
+The whole project is tested with above 90% code coverage and works properly.
