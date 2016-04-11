@@ -1,2 +1,3 @@
-# My-own-CSharp-Projects
-Projects created by me.
+# Projects created by me
+
+My own projects and ideas that I worked on.
